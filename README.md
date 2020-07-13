@@ -1,0 +1,2 @@
+# gokumarketcredit
+Our project name is GokuMarket and the token name is GokuMarket Credit (GMC).  GokuMarket is marketplace which acts as utility provider platform that encapsulates real world applications with the help of fifteen unique modules enabling cryptocurrencies to be utilized same as fiat currencies with a focus to enable newbies, pro-crypto, social media stars &amp; content creators to participate in crypto economy. Our token GokuMarket Credit (GMC) can be used on GokuMarket to avail discounts on fees for various products and services.
